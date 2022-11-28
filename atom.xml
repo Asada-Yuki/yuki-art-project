@@ -1,0 +1,28 @@
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Asada-创意与光影</title>
+    <subtitle>Other men live to eat , while I eat to live. | 别人为食而生存，我为生存而食。</subtitle>
+    <link href="https://www.yuki.art/atom.xml" rel="self"/>
+    <link href="https://www.yuki.art"/>
+    <updated>2022-11-01T22:45:00.000Z</updated>
+    <id>https://www.yuki.art</id>
+    <author>
+        <name>Asada-创意与光影</name>
+    </author>
+    <generator uri="https://bbg.nekomoe.xyz">Baiyuanneko's Blog Generator</generator>
+    <entry>
+      <title>上班时期拟定的艺人孵化合同（主播经纪约）</title>
+      <link href="https://www.yuki.art/index.html?type=article&amp;filename=MeixJzaPdM4P.md"/>
+      <id>https://www.yuki.art/index.html?type=article&amp;filename=MeixJzaPdM4P.md</id>
+      <content type="html">
+          艺人孵化合作协议
+      </content>
+      <summary type="html">艺人孵化合作协议</summary>
+      </entry><entry>
+      <title>艺人孵化合同（收益类型及分配）附件</title>
+      <link href="https://www.yuki.art/index.html?type=article&amp;filename=H6nNNpnwjepj.md"/>
+      <id>https://www.yuki.art/index.html?type=article&amp;filename=H6nNNpnwjepj.md</id>
+      <content type="html">
+          艺人孵化合作协议附件
+      </content>
+      <summary type="html">艺人孵化合作协议附件</summary>
+      </entry></feed>
